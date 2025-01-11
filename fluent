@@ -23,7 +23,7 @@ local httpService = game:GetService("HttpService")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
 
-local Mobile = false
+local Mobile = true
 
 if RunService:IsStudio() then
 	if UserInputService.TouchEnabled and not UserInputService.KeyboardEnabled and not UserInputService.MouseEnabled then
@@ -58,8 +58,8 @@ local Themes = {
 		"Emerald",
 		"Sapphire",
 		"Cloud",
-		"Grape"
-        "Sakura"
+		"Grape",
+        "Sakura"    
 	},
 	Dark = {
 		Name = "Dark",
