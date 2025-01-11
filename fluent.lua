@@ -58,7 +58,7 @@ local Themes = {
 		"Emerald",
 		"Sapphire",
 		"Cloud",
-		"Grape"
+		"Grape",
                 "Sakura"
 	},
 	Dark = {
