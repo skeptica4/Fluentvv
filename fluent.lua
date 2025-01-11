@@ -652,7 +652,6 @@ local Themes = {
 		Hover = Color3.fromRGB(112, 155, 160),
 		HoverChange = 0.04,
 	},
-	local Themes = {
     Grape = {
         Name = "Grape",
         Accent = Color3.fromRGB(183, 176, 223),
